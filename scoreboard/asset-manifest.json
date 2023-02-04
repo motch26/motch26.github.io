@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/motch26.github.io/scoreboard/static/css/main.6e3e2e6d.chunk.css",
+    "main.js": "/motch26.github.io/scoreboard/static/js/main.0ab8f83a.chunk.js",
+    "main.js.map": "/motch26.github.io/scoreboard/static/js/main.0ab8f83a.chunk.js.map",
+    "runtime-main.js": "/motch26.github.io/scoreboard/static/js/runtime-main.465ee389.js",
+    "runtime-main.js.map": "/motch26.github.io/scoreboard/static/js/runtime-main.465ee389.js.map",
+    "static/js/2.6e002ccb.chunk.js": "/motch26.github.io/scoreboard/static/js/2.6e002ccb.chunk.js",
+    "static/js/2.6e002ccb.chunk.js.map": "/motch26.github.io/scoreboard/static/js/2.6e002ccb.chunk.js.map",
+    "index.html": "/motch26.github.io/scoreboard/index.html",
+    "precache-manifest.1c1b16c1f8989260e3dee94686502d7a.js": "/motch26.github.io/scoreboard/precache-manifest.1c1b16c1f8989260e3dee94686502d7a.js",
+    "service-worker.js": "/motch26.github.io/scoreboard/service-worker.js",
+    "static/css/main.6e3e2e6d.chunk.css.map": "/motch26.github.io/scoreboard/static/css/main.6e3e2e6d.chunk.css.map",
+    "static/js/2.6e002ccb.chunk.js.LICENSE.txt": "/motch26.github.io/scoreboard/static/js/2.6e002ccb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.465ee389.js",
+    "static/js/2.6e002ccb.chunk.js",
+    "static/css/main.6e3e2e6d.chunk.css",
+    "static/js/main.0ab8f83a.chunk.js"
+  ]
+}
